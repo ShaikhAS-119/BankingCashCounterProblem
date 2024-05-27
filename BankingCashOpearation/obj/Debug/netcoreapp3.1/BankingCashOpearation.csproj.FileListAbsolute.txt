@@ -1,0 +1,13 @@
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\bin\Debug\netcoreapp3.1\BankingCashOpearation.exe
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\bin\Debug\netcoreapp3.1\BankingCashOpearation.deps.json
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\bin\Debug\netcoreapp3.1\BankingCashOpearation.runtimeconfig.json
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\bin\Debug\netcoreapp3.1\BankingCashOpearation.runtimeconfig.dev.json
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\bin\Debug\netcoreapp3.1\BankingCashOpearation.dll
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\bin\Debug\netcoreapp3.1\BankingCashOpearation.pdb
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\obj\Debug\netcoreapp3.1\BankingCashOpearation.GeneratedMSBuildEditorConfig.editorconfig
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\obj\Debug\netcoreapp3.1\BankingCashOpearation.AssemblyInfoInputs.cache
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\obj\Debug\netcoreapp3.1\BankingCashOpearation.AssemblyInfo.cs
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\obj\Debug\netcoreapp3.1\BankingCashOpearation.csproj.CoreCompileInputs.cache
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\obj\Debug\netcoreapp3.1\BankingCashOpearation.dll
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\obj\Debug\netcoreapp3.1\BankingCashOpearation.pdb
+A:\Quantum Phinance\BankOperation\BankingCashOpearation\obj\Debug\netcoreapp3.1\BankingCashOpearation.genruntimeconfig.cache
